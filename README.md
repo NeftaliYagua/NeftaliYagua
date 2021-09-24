@@ -9,8 +9,9 @@ Tengo muchas ideas para compartir con ustedes, y en las que me gustaría que par
 
 - 🔭 Estoy trabajando para ...
     * [Coderic, S.A.](https://github.com/coderic)
-    * [Mambo House](https://github.com/mambohouse) 
     * [Tollring Pty Ltd](https://tollring.com/)
+- 🔭 He trabajando para ...
+    * [Mambo House](https://github.com/mambohouse) 
     * [E-Misión](https://github.com/e-mision)
     * [Free & Flex](https://github.com/Free-Flex)
 <!--
